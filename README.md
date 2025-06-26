@@ -1,4 +1,3 @@
-# YOLOv12-vs-YOLOv13-SDPA-vs-Flash-Attention-Comprehensive-Study
 
 # 🚀 YOLOv12 vs YOLOv13: SDPA vs Flash Attention Comprehensive Study
 
