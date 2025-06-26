@@ -23,7 +23,12 @@ This study presents the first comprehensive comparison between YOLOv12 and YOLOv
 - **🧠 HyperACE Impact:** +6.2% mAP50 improvement through hypergraph correlations
 - **🎯 Agricultural Validation:** State-of-the-art performance on weed detection
 
+
 ## 📊 Results Summary
+
+
+![Comparaison mAP50](https://raw.githubusercontent.com/kennedy-kitoko/YOLOv12-vs-YOLOv13-SDPA-vs-Flash-Attention-Comprehensive-Study/main/mAP50_comparison.png)
+
 
 | Configuration | mAP50 | mAP50-95 | Precision | Recall | Training Time |
 |---------------|-------|----------|-----------|--------|---------------|
