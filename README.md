@@ -9,8 +9,8 @@
 > **A comprehensive empirical study comparing YOLOv12 and YOLOv13 architectures with SDPA and Flash Attention mechanisms for agricultural object detection.**
 
 **Authors:** Kennedy Kitoko 🇨🇩  
-**Institution:** Agricultural AI Innovation Lab  
-**Date:** June 2025
+**Institution:** beijing institut of technologie
+**Date:** 26-27 June 2025
 
 ## 🎯 Abstract
 
