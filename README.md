@@ -300,7 +300,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Kennedy Kitoko** 🇨🇩  
 *Agricultural AI Innovation Lab*  
-📧 Email: [kennedy.kitoko@agricultural-ai.org](mailto:kennedy.kitoko@agricultural-ai.org)  
+📧 Email: [kitokokennedy13@gmail.com](mailto:kitokokennedy13@gmail.com)  
 🔗 LinkedIn: [Kennedy Kitoko](https://linkedin.com/in/kennedy-kitoko)  
 🐦 Twitter: [@KennedyKitoko](https://twitter.com/KennedyKitoko)
 
